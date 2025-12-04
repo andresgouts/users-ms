@@ -12,3 +12,15 @@ A user management microservice built with Java and Spring Boot.
 
 *   Java
 *   Spring Boot
+
+## Building and Running
+
+**Building the project:**
+```bash
+./gradlew build
+```
+
+**Running the project:**
+```bash
+./gradlew bootRun
+```
