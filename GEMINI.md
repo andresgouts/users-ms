@@ -33,3 +33,4 @@ This is a Java Spring Boot project. The project is a user management microservic
 
 *   The project uses the standard Gradle project structure.
 *   The code follows standard Java conventions.
+*   the code follows development guidelines specified in gemini/specs/DevGuidelines.md
